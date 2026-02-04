@@ -1,18 +1,20 @@
-# Java OOP – HackerRank Practice
+# Java Object Oriented Programming – HackerRank Practice
 
-This repository contains my own Java implementations of Object Oriented Programming
-problems inspired by HackerRank practice questions.
+This repository contains my Java implementations of Object Oriented Programming
+problems inspired by HackerRank practice challenges.
 
-## Topics Covered
-- Inheritance
-- Superclass & Method Inheritance
-- Abstract Classes
+## Concepts Covered
+- Abstract Classes  
+- Inheritance  
+- Interfaces  
+- Method Overriding  
+- super Keyword  
+- instanceof Keyword  
+- Iterators  
 
-## What I Learned
-- How inheritance works in Java
-- How subclasses reuse parent class methods
-- How abstract classes enforce method implementation
+## Goal
+To strengthen my understanding of Java OOP concepts and write clean, readable code.
 
 Disclaimer:
-These solutions are written by me for learning and understanding OOP concepts.
-They are not meant for direct copy-paste use in coding platforms.
+These solutions are implemented by me for learning purposes.  
+They are not intended for direct copy-paste submissions on coding platforms.
