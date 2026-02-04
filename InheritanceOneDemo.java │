@@ -1,0 +1,32 @@
+// Demonstrates simple inheritance in Java
+// Bird extends Animal and reuses walk() method
+
+class Animal {
+    void walk() {
+        System.out.println("I am walking");
+    }
+}
+
+class Bird extends Animal {
+
+    void fly() {
+        System.out.println("I am flying");
+    }
+
+    void sing() {
+        System.out.println("I am singing");
+    }
+}
+
+public class InheritanceOneDemo {
+    public static void main(String[] args) {
+        Bird petBird = new Bird();
+
+        // Inherited behavior
+        petBird.walk();
+
+        // Bird specific behaviors
+        petBird.fly();
+        petBird.sing();
+    }
+}
